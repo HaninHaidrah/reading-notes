@@ -13,11 +13,11 @@ It is one of the *DVCS* (Distributed Version Control System) types which uses  *
 ![logo](https://mpng.subpng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg)
 
 ### Git vs GitHub
-Git                     | GitHub
-------------            | -------------
-locally ***downlod it** | *Web Applicaton* ***online access***
-CLI *** commands**      | *GUI*  **Graphics**
-VSC                     | VSC
+|Git                          | GitHub                              |
+|------------                 | -------------                       |
+|locally ***downlod it**      | *Web Applicaton* ***online access***|
+|CLI *** commands**           |*GUI*  **Graphics**                  |
+|VSC                          | VSC                                 |
 
  ### Termonolgies with short-cut 
  * GUI  
