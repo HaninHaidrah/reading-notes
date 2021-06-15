@@ -13,11 +13,16 @@ It is one of the *DVCS* (Distributed Version Control System) types which uses  *
 ![logo](https://mpng.subpng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg)
 
 ### Git vs GitHub
-|Git                          | GitHub                              |
-|------------                 | -------------                       |
-|locally ***downlod it**      | *Web Applicaton* ***online access***|
-|CLI *** commands**           |*GUI*  **Graphics**                  |
-|VSC                          | VSC                                 |
+1. Git 
+* locally
+* VCS
+* CLI
+
+2. GitHub  
+* online 
+* GUI
+* VCS
+
 
  ### Termonolgies with short-cut 
  * GUI  
@@ -25,10 +30,6 @@ It is one of the *DVCS* (Distributed Version Control System) types which uses  *
  
  
  Graphical User Interface
-* CLI 
-    Command Line Interface
-* VCS
-    Version Control System
 
 
  ###  Common terminals used
