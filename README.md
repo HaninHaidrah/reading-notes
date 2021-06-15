@@ -7,9 +7,6 @@
     
   ## **Table of  Contents**  
 
-
- 
-
 | Syntax                                                               | Description                    |
 | -----------                                                          | -----------                    |
 |  [Home page](https://haninhaidrah.github.io/reading-notes/)          | self-introduction              |
@@ -19,3 +16,4 @@
 |[read02](https://haninhaidrah.github.io/reading-notes/read02)         |   summary of Git               |
 
                  
+
