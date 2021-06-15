@@ -7,7 +7,7 @@
     
   ## **Table of  Contents**  
 Headings                                                   | Sub-headings
-------------                                               | -------------
+------------                                               |-------------
 [Home page](https://haninhaidrah.github.io/reading-notes/) | self-introduction
 [Growh mind](https://haninhaidrah.github.io/reading-notes/growthmind)  |summary of growth mind
 [read01](https://haninhaidrah.github.io/reading-notes/read01)      | summary of GitHub and markdown
