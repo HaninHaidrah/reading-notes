@@ -7,15 +7,12 @@
     
   ## **Table of  Contents**  
 
-
- 
-
 | Syntax                                                               | Description                    |
 | -----------                                                          | -----------                    |
 |  [Home page](https://haninhaidrah.github.io/reading-notes/)          | self-introduction              |
-|  [read01](https://haninhaidrah.github.io/reading-notes/read01)       | summary of GitHub and markdown |
 |[Growh mind](https://haninhaidrah.github.io/reading-notes/growthmind) | summary of growth mind         | 
-| [read01](https://haninhaidrah.github.io/reading-notes/read01)        |                                |  
+| [read01](https://haninhaidrah.github.io/reading-notes/read01)        |summary of GitHub and markdown  |     
 |[read02](https://haninhaidrah.github.io/reading-notes/read02)         |   summary of Git               |
 
                  
+
