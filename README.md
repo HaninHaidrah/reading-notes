@@ -5,7 +5,7 @@
 
 
     
-  ## Table of  Contents  
+## Table of  Contents  
 
 | Syntax                                                               | Description                    |
 | -----------                                                          | -----------                    |

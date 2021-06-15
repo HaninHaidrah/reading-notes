@@ -1,6 +1,6 @@
 # reading-notes
 # The Summury
-## Table of The Content
+## Table of Content
 1. *What is Growth mindset*
 2. *How to Deal with Issues*
 3. *Ways to keep Growth mindset*

@@ -13,25 +13,29 @@ It is one of the *DVCS* (Distributed Version Control System) types which uses  *
 ![logo](https://mpng.subpng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg)
 
 ### Git vs GitHub
-|Git                          | GitHub                              |
-|------------                 | -------------                       |
-|locally ***downlod it**      | *Web Applicaton* ***online access***|
-|CLI *** commands**           |*GUI*  **Graphics**                  |
-|VSC                          | VSC                                 |
-
- ### Termonolgies with short-cut 
- * GUI  
- 
- 
- 
- Graphical User Interface
-* CLI 
-    Command Line Interface
+1. Git 
+* locally
 * VCS
-    Version Control System
+* CLI
+
+2. GitHub  
+* online 
+* GUI
+* VCS
 
 
- ###  Common terminals used
+### Termonolgies with short-cut 
+ * GUI  
+> Graphical User Interface
+* CLI
+> Command line Interface
+* VCS
+> Version Cotrol System
+* DVCS
+> Distributed Version System
+
+
+###  Common terminals used
  1. git clone
  :  *copy to local device*
  2. *git status*
@@ -40,9 +44,10 @@ It is one of the *DVCS* (Distributed Version Control System) types which uses  *
  :  *gives information about the author*
 
 
-### A-c-P concept
+### A-C-P concept
 A-C-portable
-: It is the the importnant commands we should use them for each eiting.
+: It is the the importnant commands we should use them for each editing.
+    We use git terminals
 
 1. Git add.
 2. git commit-m "why"

@@ -16,11 +16,11 @@ It is the language that you use while writing a documentation *it includes some 
 
 |Syntax                          | Format               |
 |------------                    | -------------        |
-|one star the word other star    | *italic*             |
-|Two start the word two start    |**bold**              |
-|Three stars the word three stars| ***bold and italic***|
-|Star the item                   | unorder list         |
-|1dot the item                   | 1. ordered list      |
+|use `*word*`                    | *word*               |
+|use ` **word** `                |**word**              |
+|use ` ***word*** `              | ***word***           |
+|use ` *item* `                  | * item               |
+|use ` *item* `                  | 1. ordered list      |
 
 ### Examples of Used Code 
 ![codes](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5bfffa1304286304a71cca67/file-HkUrvqZYBI.png)
