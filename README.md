@@ -6,9 +6,18 @@
 
     
   ## **Table of  Contents**  
+<<<<<<< HEAD
 Headings                                                   | Sub-headings
 ------------                                               |-------------
 [Home page](https://haninhaidrah.github.io/reading-notes/) | self-introduction
 [Growh mind](https://haninhaidrah.github.io/reading-notes/growthmind)  |summary of growth mind
 [read01](https://haninhaidrah.github.io/reading-notes/read01)      | summary of GitHub and markdown
 [read02](https://haninhaidrah.github.io/reading-notes/read02)      | summary of Git
+=======
+Headings | Sub-headings
+------------ | -------------
+[Home page](https://haninhaidrah.github.io/reading-notes/) | self-introduction
+[Growh mind](https://haninhaidrah.github.io/reading-notes/growthmind) |summary of growth mind
+[read01](https://haninhaidrah.github.io/reading-notes/read01)| summary of GitHub and markdown
+[read02](https://haninhaidrah.github.io/reading-notes/read02)| summary of Git
+>>>>>>> 9ffa4de151453a8da317de2c509419a5c5f9ee66
