@@ -26,6 +26,7 @@ It is one of the *DVCS* (Distributed Version Control System) types which uses  *
 
 ### Termonolgies with short-cut 
  * GUI  
+<<<<<<< HEAD
 > Graphical User Interface
 * CLI
 > Command line Interface
@@ -33,6 +34,7 @@ It is one of the *DVCS* (Distributed Version Control System) types which uses  *
 > Version Cotrol System
 * DVCS
 > Distributed Version System
+
 
 
 ###  Common terminals used
