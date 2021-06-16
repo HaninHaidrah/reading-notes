@@ -9,11 +9,11 @@
 
 | Syntax                                                               | Description                    |
 | -----------                                                          | -----------                    |
-|  [Home page](https://haninhaidrah.github.io/reading-notes/)          | self-introduction              |
+| [Home page](https://haninhaidrah.github.io/reading-notes/)           | self-introduction              |
 |[Growh mind](https://haninhaidrah.github.io/reading-notes/growthmind) | summary of growth mind         | 
-| [read01](https://haninhaidrah.github.io/reading-notes/read01)        |summary of GitHub and markdown  |     
+|[read01](https://haninhaidrah.github.io/reading-notes/read01)         |summary of GitHub and markdown  |     
 |[read02](https://haninhaidrah.github.io/reading-notes/read02)         |   summary of Git               |
-| [read03](https://haninhaidrah.github.io/reading-notes/read03)        | summary of HTML                | 
+|[read03](https://haninhaidrah.github.io/reading-notes/read03)         | summary of HTML                | 
 
                  
 
