@@ -17,10 +17,6 @@
 |[read04](https://haninhaidrah.github.io/reading-notes/read04)         | Summary oh Java.s              |
 |[read05](https://haninhaidrah.github.io/reading-notes/read05)         | Summary of loops               |
 |[read06](https://haninhaidrah.github.io/reading-notes/read06)         | Summary of CSS                 |
-|[Growh mind](https://haninhaidrah.github.io/reading-notes/growthmind) | summary of growth mind         | 
-|[read01](https://haninhaidrah.github.io/reading-notes/read01)         |summary of GitHub and markdown  |  |[read02](https://haninhaidrah.github.io/reading-notes/read02)         |   summary of Git               |
-|[read03](https://haninhaidrah.github.io/reading-notes/read03)         | summary of HTML                | 
-|[read04](https://haninhaidrah.github.io/reading-notes/read04)         | Summary oh Java.s              |
-                 
+
 
 
