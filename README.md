@@ -17,6 +17,7 @@
 |[read04](https://haninhaidrah.github.io/reading-notes/read04)         | Summary oh Java.s              |
 |[read05](https://haninhaidrah.github.io/reading-notes/read05)         | Summary of loops               |
 |[read06](https://haninhaidrah.github.io/reading-notes/read06)         | Summary of CSS                 |
+|[read07](https://haninhaidrah.github.io/reading-notes/read07)         | Summary of functions           |
 
 
 
