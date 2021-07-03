@@ -1,7 +1,7 @@
 # The Summury
 ## Table of  Content
 1. *Operators*
-2. *Loops *
+2. *Loops*
 
 
 ###  Operators

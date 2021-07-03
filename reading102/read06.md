@@ -1,7 +1,7 @@
 # The Summury
 ## Table of  Content
 1. *What is CSS*
-2. *CSS Selectors *
+2. *CSS Selectors*
 3. *CSS Syntax*
 
 
