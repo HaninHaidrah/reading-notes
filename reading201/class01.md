@@ -13,23 +13,23 @@
 
 ***How***: by using tags (there are many sets of tags that are provided on the Html  but first let us be familiar with 
 *The Structure*:
-    <hTML>
-      <head> 
-      </head>
+  > <hTML>
+  >    <head> 
+  >    </head>
       <body>
       </body> 
     </hTML>
 
 * Eamples of main tags in the body:     
   * Text:
-    * <h1></h1>
-    * <h2></h2>
-    * <h3></h3>
-    * <h4></h4>
-    * <h5></h5>
-    * <h6></h6>
+    * `<h1></h1>`
+    * `<h2></h2>`
+    * `<h3></h3>`
+    * `<h4></h4>`
+    * `<h5></h5>`
+    * `<h6></h6>`
   * Paragraph
-    * <p></p>
+    * `<p></p>`
   * order list 
      * <ol></ol> 
 
