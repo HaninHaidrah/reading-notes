@@ -3,21 +3,19 @@
 
 
 
+## *Code 102 Reading Notes*    
+    Table of  Contents  102
 
-    
-## Table of  Contents  102
-
-| Title                                                                | Description                    |
-| -----------                                                          | -----------                    |
-|[Growh mind](https://haninhaidrah.github.io/reading-notes/growthmind) | Summary of growth mind         | 
-|[read01](https://haninhaidrah.github.io/reading-notes/read01)         | Summary of GitHub and markdown |  
-|[read02](https://haninhaidrah.github.io/reading-notes/read02)         | Summary of Git                 |
-|[read03](https://haninhaidrah.github.io/reading-notes/read03)         | Summary of HTML                | 
-|[read04](https://haninhaidrah.github.io/reading-notes/read04)         | Summary oh Java.s              |
-|[read05](https://haninhaidrah.github.io/reading-notes/read05)         | Summary of loops               |
-|[read06](https://haninhaidrah.github.io/reading-notes/read06)         | Summary of CSS                 |
-|[read07](https://haninhaidrah.github.io/reading-notes/read07)         | Summary of functions           |
-
+| Title                                                                           | Description                    |
+| -----------                                                                     | -----------                    |
+|[Growh mind](https://haninhaidrah.github.io/reading-notes/reading102/growthmind) | Summary of growth mind         | 
+|[read01](https://haninhaidrah.github.io/reading-notes/reading102/read01)         | Summary of GitHub and markdown |  
+|[read02](https://haninhaidrah.github.io/reading-notes/reading102/read02)         | Summary of Git                 |
+|[read03](https://haninhaidrah.github.io/reading-notes/reading102/read03)         | Summary of HTML                | 
+|[read04](https://haninhaidrah.github.io/reading-notes/reading102/read04)         | Summary oh Java.s              |
+|[read05](https://haninhaidrah.github.io/reading-notes/reading102/read05)         | Summary of loops               |
+|[read06](https://haninhaidrah.github.io/reading-notes/reading102/read06)         | Summary of CSS                 |
+|[read07](https://haninhaidrah.github.io/reading-notes/reading102/read07)         | Summary of functions           |
 
 
 
@@ -26,22 +24,25 @@
 
 
 
-## Table of  Contents 201 
 
-| Title                                                                  | Description                    |
-| -----------                                                            | -----------                    |
-|[class01](https://haninhaidrah.github.io/reading-notes/class01)         |                                |  
-|[class02](https://haninhaidrah.github.io/reading-notes/class02)         |                                |
-|[class03](https://haninhaidrah.github.io/reading-notes/class03)         |                                | 
-|[class04](https://haninhaidrah.github.io/reading-notes/class04)         |                                | 
-|[class05](https://haninhaidrah.github.io/reading-notes/class05)         |                                | 
-|[class06](https://haninhaidrah.github.io/reading-notes/class06)         |                                | 
-|[class07](https://haninhaidrah.github.io/reading-notes/class07)         |                                | 
-|[class08](https://haninhaidrah.github.io/reading-notes/class08)         |                                | 
-|[class09](https://haninhaidrah.github.io/reading-notes/class09)         |                                | 
-|[class10](https://haninhaidrah.github.io/reading-notes/class10)         |                                | 
-|[class11](https://haninhaidrah.github.io/reading-notes/class11)         |                                | 
-|[class12](https://haninhaidrah.github.io/reading-notes/class12)         |                                | 
-|[class13](https://haninhaidrah.github.io/reading-notes/class13)         |                                | 
-|[class14](https://haninhaidrah.github.io/reading-notes/class14)         |                                | 
-|[class15](https://haninhaidrah.github.io/reading-notes/class15)         |                                | 
+## *Code 201 Reading Notes*    
+    Table of  Contents  201
+ 
+
+| Title                                                                             | Description                    |
+| -----------                                                                       | -----------                    |
+|[class01](https://haninhaidrah.github.io/reading-notes/reading102/class01)         |      chapter1                  |  
+|[class02](https://haninhaidrah.github.io/reading-notes/reading102/class02)         |      Chapter2                  |
+|[class03](https://haninhaidrah.github.io/reading-notes/reading102/class03)         |                                | 
+|[class04](https://haninhaidrah.github.io/reading-notes/reading102/class04)         |                                | 
+|[class05](https://haninhaidrah.github.io/reading-notes/reading102/class05)         |                                | 
+|[class06](https://haninhaidrah.github.io/reading-notes/reading102/class06)         |                                | 
+|[class07](https://haninhaidrah.github.io/reading-notes/reading102/class07)         |                                | 
+|[class08](https://haninhaidrah.github.io/reading-notes/reading102/class08)         |                                | 
+|[class09](https://haninhaidrah.github.io/reading-notes/reading102/class09)         |                                | 
+|[class15](https://haninhaidrah.github.io/reading-notes/reading102/class10)         |                                | 
+|[class10](https://haninhaidrah.github.io/reading-notes/reading102/class11)         |                                | 
+|[class11](https://haninhaidrah.github.io/reading-notes/reading102/class12)         |                                | 
+|[class12](https://haninhaidrah.github.io/reading-notes/reading102/class13)         |                                | 
+|[class13](https://haninhaidrah.github.io/reading-notes/reading102/class14)         |                                | 
+|[class14](https://haninhaidrah.github.io/reading-notes/reading102/class15)         |                                | 
