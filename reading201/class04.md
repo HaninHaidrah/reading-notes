@@ -3,7 +3,7 @@
 1. Chapter 4: “Links” 
 2. Chapter 14: “layout” (pp.300-329)
 3. Chapter2 :Functions, Methods, and Object
-4. chapter 4: “Decisions and Loops” from switch statements 
+4. The Article: 
 
 
 ## Chapter 3: “Links”
@@ -97,3 +97,16 @@ Arrays use zero-based indexing, so the first item in an array has an index of 0
 
 
 ![img](https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/array-destructuring-in-javascript/Images/Array%20Destructuring%20In%20JavaScript.png)
+
+
+
+
+## Pair programming 
+consists of two programmers sharing a single workstation (one screen, keyboard and mouse among the pair). The programmer at the keyboard is usually called the “driver”, the other, also actively involved in the programming task but focusing more on overall direction is the “navigator”; it is expected that the programmers swap roles every few minutes or so.
+
+#### Reasons for pair programming:
+1. help you to be more effective
+2. challange you
+3. it helps you in your social life
+4. it is effective with job interviews
+5. learning from a partner
