@@ -31,12 +31,12 @@
  
 | Title                                                                             | Description                    |
 | -----------                                                                       | -----------                    |
-|[class01](https://haninhaidrah.github.io/reading-notes/reading201/class01)         |      chapter1                  |  
-|[class02](https://haninhaidrah.github.io/reading-notes/reading201/class02)         |      Chapter2                  |
-|[class03](https://haninhaidrah.github.io/reading-notes/reading201/class03)         |                                | 
-|[class04](https://haninhaidrah.github.io/reading-notes/reading201/class04)         |                                | 
-|[class05](https://haninhaidrah.github.io/reading-notes/reading201/class05)         |                                | 
-|[class06](https://haninhaidrah.github.io/reading-notes/reading201/class06)         |                                | 
+|[class01](https://haninhaidrah.github.io/reading-notes/reading201/class01)         |  Web languages                 | 
+|[class02](https://haninhaidrah.github.io/reading-notes/reading201/class02)         |  Texts in HTML                 |
+|[class03](https://haninhaidrah.github.io/reading-notes/reading201/class03)         |  Lists and boxes, loops        | 
+|[class04](https://haninhaidrah.github.io/reading-notes/reading201/class04)         |  Links, lyouts, Functions      | 
+|[class05](https://haninhaidrah.github.io/reading-notes/reading201/class05)         |  Img, Colout , Texts           | 
+|[class06](https://haninhaidrah.github.io/reading-notes/reading201/class06)         |  Object Literals               | 
 |[class07](https://haninhaidrah.github.io/reading-notes/reading201/class07)         |                                | 
 |[class08](https://haninhaidrah.github.io/reading-notes/reading201/class08)         |                                | 
 |[class09](https://haninhaidrah.github.io/reading-notes/reading201/class09)         |                                | 
