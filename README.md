@@ -37,13 +37,13 @@
 |[class04](https://haninhaidrah.github.io/reading-notes/reading201/class04)         |  Links, lyouts, Functions      | 
 |[class05](https://haninhaidrah.github.io/reading-notes/reading201/class05)         |  Img, Colout , Texts           | 
 |[class06](https://haninhaidrah.github.io/reading-notes/reading201/class06)         |  Object Literals               | 
-|[class07](https://haninhaidrah.github.io/reading-notes/reading201/class07)         |                                | 
-|[class08](https://haninhaidrah.github.io/reading-notes/reading201/class08)         |                                | 
-|[class09](https://haninhaidrah.github.io/reading-notes/reading201/class09)         |                                | 
-|[class15](https://haninhaidrah.github.io/reading-notes/reading201/class10)         |                                | 
-|[class10](https://haninhaidrah.github.io/reading-notes/reading201/class11)         |                                | 
-|[class11](https://haninhaidrah.github.io/reading-notes/reading201/class12)         |                                | 
-|[class12](https://haninhaidrah.github.io/reading-notes/reading201/class13)         |                                | 
-|[class13](https://haninhaidrah.github.io/reading-notes/reading201/class14)         |                                | 
-|[class14](https://haninhaidrah.github.io/reading-notes/reading201/class15)         |                                | 
+|[class07](https://haninhaidrah.github.io/reading-notes/reading201/class07)         |  Tables in html                | 
+|[class08](https://haninhaidrah.github.io/reading-notes/reading201/class08)         |  Layout css                    | 
+|[class09](https://haninhaidrah.github.io/reading-notes/reading201/class09)         |  Forms                         | 
+|[class10](https://haninhaidrah.github.io/reading-notes/reading201/class10)         |  Error Handling & Debugging    | 
+|[class11](https://haninhaidrah.github.io/reading-notes/reading201/class11)         |                                | 
+|[class12](https://haninhaidrah.github.io/reading-notes/reading201/class12)         |                                | 
+|[class13](https://haninhaidrah.github.io/reading-notes/reading201/class13)         |                                | 
+|[class14](https://haninhaidrah.github.io/reading-notes/reading201/class14)         |                                | 
+|[class15](https://haninhaidrah.github.io/reading-notes/reading201/class15)         |                                | 
 
