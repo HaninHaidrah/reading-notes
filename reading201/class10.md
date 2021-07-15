@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chapter
   ## chapter 10 Error Handling & Debugging
 
@@ -158,3 +159,5 @@ Now, you don't need to specify the errorPage attribute of page directive in the 
 
 
 
+=======
+>>>>>>> 2f9315df458b892e035ff992b39db6da5b74e987
