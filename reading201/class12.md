@@ -1,3 +1,5 @@
+
+
 # Assorted topics
 ## Chart.js API  
 
