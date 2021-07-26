@@ -42,7 +42,7 @@
 |[class09](https://haninhaidrah.github.io/reading-notes/reading201/class09)         |  Forms                         | 
 |[class10](https://haninhaidrah.github.io/reading-notes/reading201/class10)         |  Error Handling & Debugging    | 
 |[class11](https://haninhaidrah.github.io/reading-notes/reading201/class11)         |  Assorted Topics               | 
-|[class12](https://haninhaidrah.github.io/reading-notes/reading201/class12)         |                                | 
+|[class12](https://haninhaidrah.github.io/reading-notes/reading201/class12)         |  Assorted Topics2              | 
 |[class13](https://haninhaidrah.github.io/reading-notes/reading201/class13)         |                                | 
 |[class14](https://haninhaidrah.github.io/reading-notes/reading201/class14)         |                                | 
 |[class15](https://haninhaidrah.github.io/reading-notes/reading201/class15)         |                                | 
