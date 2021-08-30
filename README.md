@@ -47,3 +47,15 @@
 |[class14](https://haninhaidrah.github.io/reading-notes/reading201/class14)         |                                | 
 |[class15](https://haninhaidrah.github.io/reading-notes/reading201/class15)         |                                | 
 
+
+
+## *Code 301 Intermediate Software Development*    
+    Table of  Contents  301
+ 
+| Title                                                                             | Description                                 |
+| -----------                                                                       | -----------                                 |
+|[Notes](https://haninhaidrah.github.io/reading-notes/reading301/notes)             | Notes                                       |
+|[read01](https://haninhaidrah.github.io/reading-notes/reading301/class01)          |Introduction to React and Components         | 
+|[read02](https://haninhaidrah.github.io/reading-notes/reading301/class02)          |State and Props                              |
+
+
