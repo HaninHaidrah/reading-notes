@@ -1,9 +1,13 @@
-# WHO I Am 
+
+# Reading Notes
+
+
+## WHO I Am 
 *I'm Hanin Haidarah. I'm 25 years old. I come from Yemen. I studied English literature. my background  related to this field is not that much . But I think Im a fast learner.*
 
 
 
-## *Code 102 Reading Notes*    
+## *Code 102 - Intro to Software Development*    
     Table of  Contents  102
 
 | Title                                                                           | Description                    |
@@ -26,7 +30,7 @@
 
 
 
-## *Code 201 Reading Notes*    
+## *Code 201 - Foundations of Software Development*    
     Table of  Contents  201
  
 | Title                                                                             | Description                    |
