@@ -61,5 +61,6 @@
 |[Notes](https://haninhaidrah.github.io/reading-notes/reading301/notes)             | Notes                                       |
 |[read01](https://haninhaidrah.github.io/reading-notes/reading301/class01)          |Introduction to React and Components         | 
 |[read02](https://haninhaidrah.github.io/reading-notes/reading301/class02)          |State and Props                              |
+|[read03](https://haninhaidrah.github.io/reading-notes/reading301/class03)          |Passing Functions as Props                   |
 
 
