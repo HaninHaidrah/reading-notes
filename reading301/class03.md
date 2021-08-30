@@ -2,7 +2,7 @@
 ## Questions about 
 1. What does .map() return?
 * map() function returns a map object(which is an iterator) of the results after applying the given function to each item of a given iterable (list, tuple etc.)  
-![map](https://i.stack.imgur.com/TysBm.png)
+![map][https://i.stack.imgur.com/TysBm.png]
 
 
 2. If I want to loop through an array and display each value in JSX, how do I do that in React?
@@ -12,7 +12,7 @@
 Also, data from the object is passed to each block using the JSX handlebars-like curly brackets. 
 
 3. Each list item needs a unique ____.
-* “map only unique values javascript”  
+* “map only unique values javascript”    
 !(code)[https://www.codegrepper.com/codeimages/javascript-map-distinct-value-from-object.png]
 4. What is the purpose of a key?
 *The keys in Map are ordered in a simple, straightforward way: A Map object iterates entries, keys, and values in the order of entry insertion.*
@@ -31,9 +31,9 @@ Spread syntax (...) allows an iterable such as an array expression or string to 
 1. Copying an array.
 2. Concatenating or combining arrays.
 3. Using Math functions.
-4. Using an array as arguments.
-!(code)[https://samanthaming.gumlet.io/tidbits/14-combine-multiple-arrays-using-spread.jpg.gz]
-!(code)[https://miro.medium.com/max/1400/1*ck6Fs5k54T8Yv09D2dS0jA.png]
+4. Using an array as arguments.  
+!(code)[https://samanthaming.gumlet.io/tidbits/14-combine-multiple-arrays-using-spread.jpg.gz]  
+!(code)[https://miro.medium.com/max/1400/1*ck6Fs5k54T8Yv09D2dS0jA.png]  
 
 
 ## Questions about How to Pass Functions Between Components:
