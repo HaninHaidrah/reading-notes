@@ -28,12 +28,15 @@ Also, data from the object is passed to each block using the JSX handlebars-like
 
 ***The Answers:***:
 Spread syntax (...) allows an iterable such as an array expression or string to be expanded in places where zero or more arguments (for function calls) or elements (for array literals) are expected, or an object expression to be expanded in places where zero or more key-value pairs (for object literals) are expected. 
+  !(code)[https://miro.medium.com/max/1400/1*ck6Fs5k54T8Yv09D2dS0jA.png]  
+ 
 1. Copying an array.
 2. Concatenating or combining arrays.
 3. Using Math functions.
 4. Using an array as arguments.  
-!(code)[https://samanthaming.gumlet.io/tidbits/14-combine-multiple-arrays-using-spread.jpg.gz]  
-!(code)[https://miro.medium.com/max/1400/1*ck6Fs5k54T8Yv09D2dS0jA.png]  
+!(code)[https://samanthaming.gumlet.io/tidbits/14-combine-multiple-arrays-using-spread.jpg]  
+
+
 
 
 ## Questions about How to Pass Functions Between Components:
