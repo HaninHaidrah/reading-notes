@@ -1,7 +1,7 @@
 ## Questions about React Docs - thinking in React  
 
 
-!(code)[https://image.slidesharecdn.com/react-170126232952/95/reactredux-16-638.jpg?cb=1485473573]
+!(code)[https://bestof.nyc3.digitaloceanspaces.com/react/react-thinking-in-react-hooks.jpeg]
 
 
 1. How would you break a mock into a component heirarchy?  
@@ -11,6 +11,8 @@
 
 2. What is the single responsibility principle and how does it apply to components?  
 * The single-responsibility principle (SRP) is a computer-programming principle that states that every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part. All of that module, class or function's services should be narrowly aligned with that responsibility.  
+
+
 !(code)[https://miro.medium.com/max/1400/1*UY-BQhUAfNciHI1iAHfwXg.png]
 
 3. What does it mean to build a ‘static’ version of your application?  
