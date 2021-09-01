@@ -63,5 +63,7 @@
 |[read02](https://haninhaidrah.github.io/reading-notes/reading301/class02)          |State and Props                              |
 |[read03](https://haninhaidrah.github.io/reading-notes/reading301/class03)          |Passing Functions as Props                   |
 |[read04](https://haninhaidrah.github.io/reading-notes/reading301/class04)          |ternary+operator                             |
+|[read05](https://haninhaidrah.github.io/reading-notes/reading301/class05)          |Think in react                               |
+
 
 
