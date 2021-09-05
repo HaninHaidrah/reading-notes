@@ -1,13 +1,11 @@
-
 # Reading Notes
 
+## WHO I Am
 
-## WHO I Am 
 *I'm Hanin Haidarah. I'm 25 years old. I come from Yemen. I studied English literature. my background  related to this field is not that much . But I think Im a fast learner.*
 
+## *Code 102 - Intro to Software Development*
 
-
-## *Code 102 - Intro to Software Development*    
     Table of  Contents  102
 
 | Title                                                                           | Description                    |
@@ -21,18 +19,9 @@
 |[read06](https://haninhaidrah.github.io/reading-notes/reading102/read06)         | Summary of CSS                 |
 |[read07](https://haninhaidrah.github.io/reading-notes/reading102/read07)         | Summary of functions           |
 
+## *Code 201 - Foundations of Software Development*
 
-
-
-
-
-
-
-
-
-## *Code 201 - Foundations of Software Development*    
     Table of  Contents  201
- 
 | Title                                                                             | Description                    |
 | -----------                                                                       | -----------                    |
 |[class01](https://haninhaidrah.github.io/reading-notes/reading201/class01)         |  Web languages                 | 
@@ -51,11 +40,9 @@
 |[class14](https://haninhaidrah.github.io/reading-notes/reading201/class14)         |                                | 
 |[class15](https://haninhaidrah.github.io/reading-notes/reading201/class15)         |                                | 
 
+## *Code 301 Intermediate Software Development*
 
-
-## *Code 301 Intermediate Software Development*    
-    Table of  Contents  301
- 
+Table of  Contents  301
 | Title                                                                             | Description                                 |
 | -----------                                                                       | -----------                                 |
 |[Notes](https://haninhaidrah.github.io/reading-notes/reading301/notes)             | Notes                                       |
@@ -64,6 +51,4 @@
 |[read03](https://haninhaidrah.github.io/reading-notes/reading301/class03)          |Passing Functions as Props                   |
 |[read04](https://haninhaidrah.github.io/reading-notes/reading301/class04)          |ternary+operator                             |
 |[read05](https://haninhaidrah.github.io/reading-notes/reading301/class05)          |Think in react                               |
-
-
-
+|[read06](https://haninhaidrah.github.io/reading-notes/reading301/class06)          |Node.Js                                      |
