@@ -30,4 +30,4 @@
 
 * the PATCH method is a request method supported by the Hypertext Transfer Protocol (HTTP) protocol for making partial changes to an existing resource. The PATCH method provides an entity containing a list of changes to be applied to the resource requested using the HTTP Uniform Resource Identifier (URI).
 
-[http-methods](https://res.cloudinary.com/nlogn/images/w_547,h_356/f_auto,q_auto/v1587453297/HTTP-methods-comaprison/HTTP-methods-comaprison.png?_i=AA)
+![http-methods](https://res.cloudinary.com/nlogn/images/w_547,h_356/f_auto,q_auto/v1587453297/HTTP-methods-comaprison/HTTP-methods-comaprison.png?_i=AA)
