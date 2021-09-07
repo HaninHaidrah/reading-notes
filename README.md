@@ -56,3 +56,4 @@
 |[read06](https://haninhaidrah.github.io/reading-notes/reading301/class06)          |Node.Js                                      |
 |[read07](https://haninhaidrah.github.io/reading-notes/reading301/class07)          |API.KEYs                                     |
 |[read08](https://haninhaidrah.github.io/reading-notes/reading301/class08)          |APIs                                         |
+|[read09](https://haninhaidrah.github.io/reading-notes/reading301/class09)          |Functional Programming Concepts              |
