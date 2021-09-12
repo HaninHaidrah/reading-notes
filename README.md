@@ -58,3 +58,4 @@
 |[read08](https://haninhaidrah.github.io/reading-notes/reading301/class08)          |APIs                                         |
 |[read09](https://haninhaidrah.github.io/reading-notes/reading301/class09)          |Functional Programming Concepts              |
 |[read10](https://haninhaidrah.github.io/reading-notes/reading301/class10)          |Functional Programming Concepts              |
+|[read11](https://haninhaidrah.github.io/reading-notes/reading301/class11)          |Database                                     |
