@@ -59,6 +59,6 @@
 |[read09](https://haninhaidrah.github.io/reading-notes/reading301/class09)          |Functional Programming Concepts              |
 |[read10](https://haninhaidrah.github.io/reading-notes/reading301/class10)          |Functional Programming Concepts              |
 |[read11](https://haninhaidrah.github.io/reading-notes/reading301/class11)          |Database                                     |
-|[read12](https://haninhaidrah.github.io/reading-notes/reading301/class12)          |Database                                     |
-|[read13](https://haninhaidrah.github.io/reading-notes/reading301/class13)          |Database                                     |
-|[read14](https://haninhaidrah.github.io/reading-notes/reading301/class14)          |Database                                     |
+|[read12](https://haninhaidrah.github.io/reading-notes/reading301/class12)          |status code                                  |
+|[read13](https://haninhaidrah.github.io/reading-notes/reading301/class13)          |Diversity                                    |
+|[read14](https://haninhaidrah.github.io/reading-notes/reading301/class14)          |project Ideas                                |
