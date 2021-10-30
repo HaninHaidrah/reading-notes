@@ -64,3 +64,9 @@
 |[read14](https://haninhaidrah.github.io/reading-notes/reading301/class14)          |project Ideas                                |
 
 ## *Code 401 - Advanced Software Development*
+
+    Table of  Contents  401
+
+| Title                                                                             | Description                                 |
+| -----------                                                                       | -----------                                 |
+|[read01](https://haninhaidrah.github.io/reading-notes/reading401/read01)           | Think as programmer                         |
