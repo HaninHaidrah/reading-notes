@@ -70,3 +70,4 @@
 | Title                                                                             | Description                                 |
 | -----------                                                                       | -----------                                 |
 |[read01](https://haninhaidrah.github.io/reading-notes/reading401/read01)           | Think as programmer                         |
+|[class01](https://haninhaidrah.github.io/reading-notes/reading401/class01)         | CI/CD/TDD                                      |
