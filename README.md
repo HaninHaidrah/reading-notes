@@ -72,3 +72,4 @@
 |[read01](https://haninhaidrah.github.io/reading-notes/reading401/read01)           | Think as programmer                         |
 |[class01](https://haninhaidrah.github.io/reading-notes/reading401/class01)         | CI/CD/TDD                                      |
 |[read03](https://haninhaidrah.github.io/reading-notes/reading401/read03)           | Express REST API                            |
+|[read04](https://haninhaidrah.github.io/reading-notes/reading401/read03)           | Readings: Data Modeling                     |
