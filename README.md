@@ -74,3 +74,4 @@
 |[read02](https://haninhaidrah.github.io/reading-notes/reading401/read02)           | Express                                     |
 |[read03](https://haninhaidrah.github.io/reading-notes/reading401/read03)           | Express REST API                            |
 |[read04](https://haninhaidrah.github.io/reading-notes/reading401/read04)           | Readings: Data Modeling                     |
+|[linked-list](https://haninhaidrah.github.io/reading-notes/reading401/linked-list) | Readings: linked-list                       |
