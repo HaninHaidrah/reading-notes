@@ -29,12 +29,15 @@
 
 Web Server
 :  A web server is a computer that runs websites. It's a computer program that distributes web pages as they are requisitioned. The basic objective of the web server is to store, process and deliver web pages to the users. This intercommunication is done using Hypertext Transfer Protocol (HTTP)
+
 Express
-: its a wireframe for back end web application for Node. js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs.
+:  its a wireframe for back end web application for Node. js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs.
 Routing
-: the process of selecting a path for traffic in a network or between or across multiple networks
+
+:  the process of selecting a path for traffic in a network or between or across multiple networks
+
 WRRC
-: its the jerouny from the client to the server by sending requet by http and recieving responds from server
+:  its the jerouny from the client to the server by sending requet by http and recieving responds from server
 
 ## Preview
 
