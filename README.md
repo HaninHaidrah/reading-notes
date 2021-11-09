@@ -75,4 +75,4 @@
 |[read03](https://haninhaidrah.github.io/reading-notes/reading401/read03)           | Express REST API                                         |
 |[read04](https://haninhaidrah.github.io/reading-notes/reading401/read04)           | Readings: Data Modeling                                    |
 |[linked-list](https://haninhaidrah.github.io/reading-notes/reading401/linked-list) | Readings: linked-list                                 |
-|[linked-list](https://haninhaidrah.github.io/reading-notes/reading401/read07)      | Readings: bearer auth                                        |
+|[AUTH ](https://haninhaidrah.github.io/reading-notes/reading401/read07)            | Readings: bearer auth                                        |
