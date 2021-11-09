@@ -76,3 +76,4 @@
 |[read04](https://haninhaidrah.github.io/reading-notes/reading401/read04)           | Readings: Data Modeling                                    |
 |[linked-list](https://haninhaidrah.github.io/reading-notes/reading401/linked-list) | Readings: linked-list                                 |
 |[AUTH ](https://haninhaidrah.github.io/reading-notes/reading401/read07)            | Readings: bearer auth                                        |
+|[ACL ](https://haninhaidrah.github.io/reading-notes/reading401/read08)             | Readings: ACL                                         |
