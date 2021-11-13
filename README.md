@@ -75,5 +75,6 @@
 |[read03](https://haninhaidrah.github.io/reading-notes/reading401/read03)           | Express REST API                                         |
 |[read04](https://haninhaidrah.github.io/reading-notes/reading401/read04)           | Readings: Data Modeling                                    |
 |[linked-list](https://haninhaidrah.github.io/reading-notes/reading401/linked-list) | Readings: linked-list                                 |
+|[basic ](https://haninhaidrah.github.io/reading-notes/reading401/read06)           | Readings: Basic authentication                              |
 |[AUTH ](https://haninhaidrah.github.io/reading-notes/reading401/read07)            | Readings: bearer auth                                        |
 |[ACL ](https://haninhaidrah.github.io/reading-notes/reading401/read08)             | Readings: ACL                                         |
