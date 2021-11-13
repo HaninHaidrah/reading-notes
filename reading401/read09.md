@@ -1,4 +1,5 @@
 # Reading: Authorization/Authentication
+
 ## Review, Research, and Discussion
 1. What header(s) are used in authentication and authorization
     - The headers hold the encrypted password and it will be used to decode the password again
