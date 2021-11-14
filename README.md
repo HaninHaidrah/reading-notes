@@ -78,4 +78,5 @@
 |[basic ](https://haninhaidrah.github.io/reading-notes/reading401/read06)           | Readings: Basic authentication                              |
 |[AUTH ](https://haninhaidrah.github.io/reading-notes/reading401/read07)            | Readings: bearer auth                                        |
 |[ACL ](https://haninhaidrah.github.io/reading-notes/reading401/read08)             | Readings: ACL                                         |
-|[RBAC ](https://haninhaidrah.github.io/reading-notes/reading401/read09)             | Readings: RBAC                                        |
+|[RBAC ](https://haninhaidrah.github.io/reading-notes/reading401/read09)            | Readings: RBAC                                        |
+|[event](https://haninhaidrah.github.io/reading-notes/reading401/read11)            | Readings: events                                      |
