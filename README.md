@@ -80,3 +80,4 @@
 |[ACL ](https://haninhaidrah.github.io/reading-notes/reading401/read08)             | Readings: ACL                                         |
 |[RBAC ](https://haninhaidrah.github.io/reading-notes/reading401/read09)            | Readings: RBAC                                        |
 |[event](https://haninhaidrah.github.io/reading-notes/reading401/read11)            | Readings: events                                      |
+|[socket.io](https://haninhaidrah.github.io/reading-notes/reading401/read12)        | Readings: socket.io   
