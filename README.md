@@ -82,4 +82,5 @@
 |[event](https://haninhaidrah.github.io/reading-notes/reading401/read11)            | Readings: events                                      |
 |[socket.io](https://haninhaidrah.github.io/reading-notes/reading401/read12)        | Readings: socket.io   
 |[event-driven-app](https://haninhaidrah.github.io/reading-notes/reading401/read14) | Readings: event-driven-app
-|[Binary tree](https://haninhaidrah.github.io/reading-notes/reading401/read15)      | Readings: event-driven-app
+|[message queues](https://haninhaidrah.github.io/reading-notes/reading401/read13)   | Readings: message queues
+|[Binary tree](https://haninhaidrah.github.io/reading-notes/reading401/read15)      | Readings: binary tree
