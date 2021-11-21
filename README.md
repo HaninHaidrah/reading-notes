@@ -84,3 +84,4 @@
 |[event-driven-app](https://haninhaidrah.github.io/reading-notes/reading401/read14) | Readings: event-driven-app
 |[message queues](https://haninhaidrah.github.io/reading-notes/reading401/read13)   | Readings: message queues
 |[Binary tree](https://haninhaidrah.github.io/reading-notes/reading401/read15)      | Readings: binary tree
+|[AWS](https://haninhaidrah.github.io/reading-notes/reading401/read16)              | Readings: Cloud Servers
