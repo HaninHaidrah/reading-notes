@@ -85,4 +85,4 @@
 |[message queues](https://haninhaidrah.github.io/reading-notes/reading401/read13)   | Readings: message queues
 |[Binary tree](https://haninhaidrah.github.io/reading-notes/reading401/read15)      | Readings: binary tree
 |[AWS](https://haninhaidrah.github.io/reading-notes/reading401/read16)              | Readings: Cloud Servers
-|[AWS](https://haninhaidrah.github.io/reading-notes/reading401/read16)              | Readings: S3 and Lambda
+|[AWS](https://haninhaidrah.github.io/reading-notes/reading401/read17)              | Readings: S3 and Lambda
