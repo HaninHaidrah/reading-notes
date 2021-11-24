@@ -87,4 +87,5 @@
 |[AWS](https://haninhaidrah.github.io/reading-notes/reading401/read16)              | Readings: Cloud Servers
 |[AWS](https://haninhaidrah.github.io/reading-notes/reading401/read17)              | Readings: S3 and Lambda
 |[AWS](https://haninhaidrah.github.io/reading-notes/reading401/read18)              | Readings: API, Dynamo and Lambda
+|[AWS](https://haninhaidrah.github.io/reading-notes/reading401/read18)              | Readings: events
 
