@@ -89,5 +89,7 @@
 |[AWS](https://haninhaidrah.github.io/reading-notes/reading401/read18)              | Readings: API, Dynamo and Lambda
 |[AWS](https://haninhaidrah.github.io/reading-notes/reading401/read19)              | Readings: events
 |[react](https://haninhaidrah.github.io/reading-notes/reading401/read26)            | Readings: REACT
+|[hook](https://haninhaidrah.github.io/reading-notes/reading401/read27)            | Readings: hook
+
 
 
