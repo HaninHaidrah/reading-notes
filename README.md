@@ -90,6 +90,8 @@
 |[AWS](https://haninhaidrah.github.io/reading-notes/reading401/read19)              | Readings: events
 |[react](https://haninhaidrah.github.io/reading-notes/reading401/read26)            | Readings: REACT
 |[hook](https://haninhaidrah.github.io/reading-notes/reading401/read27)            | Readings: hook
+|[hook](https://haninhaidrah.github.io/reading-notes/reading401/read28)            | Readings: useEffect()
+
 
 
 
