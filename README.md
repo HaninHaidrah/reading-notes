@@ -92,6 +92,8 @@
 |[hook](https://haninhaidrah.github.io/reading-notes/reading401/read27)            | Readings: hook
 |[hook](https://haninhaidrah.github.io/reading-notes/reading401/read28)            | Readings: useEffect()
 |[hook](https://haninhaidrah.github.io/reading-notes/reading401/read29)            | Readings: useReducer()
+|[hashed](https://haninhaidrah.github.io/reading-notes/reading401/read30)          | Readings: Data-Structure hashed table
+
 
 
 
