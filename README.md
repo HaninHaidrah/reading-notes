@@ -96,7 +96,7 @@
 |[hashed](https://haninhaidrah.github.io/reading-notes/reading401/read31)          | Readings: context()
 |[tree](https://haninhaidrah.github.io/reading-notes/reading401/read32)            | Readings: Context API - Behaviors
 |[tree](https://haninhaidrah.github.io/reading-notes/reading401/read33)            | Reading: Login and Auth 
-|[tree](https://haninhaidrah.github.io/reading-notes/reading401/read34)            | Reading: API Integration
+|[auth](https://haninhaidrah.github.io/reading-notes/reading401/read34)            | Reading: API Integration
 
  
 
