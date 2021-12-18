@@ -97,6 +97,8 @@
 |[tree](https://haninhaidrah.github.io/reading-notes/reading401/read32)            | Readings: Context API - Behaviors
 |[tree](https://haninhaidrah.github.io/reading-notes/reading401/read33)            | Reading: Login and Auth 
 |[auth](https://haninhaidrah.github.io/reading-notes/reading401/read34)            | Reading: API Integration
+|[graph](https://haninhaidrah.github.io/reading-notes/reading401/read35)            | Reading: Graph data structure
+
 
  
 
