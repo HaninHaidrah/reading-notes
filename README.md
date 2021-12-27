@@ -99,7 +99,10 @@
 |[auth](https://haninhaidrah.github.io/reading-notes/reading401/read34)            | Reading: API Integration
 |[graph](https://haninhaidrah.github.io/reading-notes/reading401/read35)            | Reading: Graph data structure
 |[Redux](https://haninhaidrah.github.io/reading-notes/reading401/read36)            | Reading:  Application State with Redux
-|[combind-reducer](https://haninhaidrah.github.io/reading-notes/reading401/read37)            | Reading:  Combined Reducers
+|[combind-reducer](https://haninhaidrah.github.io/reading-notes/reading401/read37)   | Reading:  combind-reducer Actions 
+|[Asynchronous Actions](https://haninhaidrah.github.io/reading-notes/reading401/read38)            | Reading:  Asynchronous Actions
+|[Additional Topics](https://haninhaidrah.github.io/reading-notes/reading401/read39)            | Reading:  Additional Topics
+|[React Native](https://haninhaidrah.github.io/reading-notes/reading401/read41)            | Reading:  React Native
 
 
 
