@@ -1,4 +1,4 @@
-# Readings: Ethics in technology : 
+# ethics in technology : 
 
 * I chosed two articles from both topics mentioned in read and write my review as below : 
 
@@ -10,3 +10,6 @@
 2. Ethics in Technology
  - Article : Will Democracy Survive Big Data and Artificial Intelligence?
     > MY REVIEW : Life becomes more realable on technology specially the Artificial Intelligence, it affects our life and thinking .I beleive in somehow on what mentioned on the article . for explanation , the part that relates to how fast we improve and how strong our technology becomes , but on the other hand I dont think it will affect our world negatively . Always believe technology has two side we cant overwhelm one side on the other.
+
+
+

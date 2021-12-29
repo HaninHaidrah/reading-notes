@@ -103,6 +103,7 @@
 |[Asynchronous Actions](https://haninhaidrah.github.io/reading-notes/reading401/read38)            | Reading:  Asynchronous Actions
 |[Additional Topics](https://haninhaidrah.github.io/reading-notes/reading401/read39)            | Reading:  Additional Topics
 |[React Native](https://haninhaidrah.github.io/reading-notes/reading401/read41)            | Reading:  React Native
+|[ethic in tech ](https://haninhaidrah.github.io/reading-notes/reading401/read42)            | Reading:  ethics in technology 
 
 
 
